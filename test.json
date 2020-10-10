@@ -1,0 +1,42 @@
+{
+    "List": [
+      {
+        "Name": "Rice",
+        "Unit": "KG",
+        "price": 60
+
+      },
+      {
+        "Name": "Milk",
+        "Unit": "L",
+        "price": 60
+
+
+      },
+      {
+        "Name": "Daal",
+        "Unit": "KG",
+        "price": 60
+
+      },
+      {
+        "Name": "Powder Milk",
+        "Unit": "Packet",
+        "price": 60
+
+      },
+      {
+        "Name": "Sause",
+        "Unit": "Bottle",
+        "price": 60
+
+      },
+      {
+        "Name": "Potato",
+        "Unit": "KG",
+        "price": 60
+
+      }
+    ]
+
+  }
